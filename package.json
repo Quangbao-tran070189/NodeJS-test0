@@ -1,0 +1,27 @@
+{
+  "name": "backend0",
+  "version": "1.0.0",
+  "description": "Nothing to do here, just write some words",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Quangbao-tran070189/NodeJS-test0.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "React"
+  ],
+  "author": "BaoQuang Tran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Quangbao-tran070189/NodeJS-test0/issues"
+  },
+  "homepage": "https://github.com/Quangbao-tran070189/NodeJS-test0#readme",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
